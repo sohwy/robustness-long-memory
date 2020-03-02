@@ -3,7 +3,7 @@
 Authors: Wen Hoong Koay & Wei Ying Soh
 
 ## Abstract
-When attempting to discern whether a particular tim series exhibits long memory or not, the ability of the long memory estimator to isolate
+When attempting to discern whether a particular time series exhibits long memory or not, the ability of the long memory estimator to isolate
 the long memory component from other characteristics (e.g., short-run dynamics, leptokurtosis) of the time series becomes of first order impor-
 tance. 
 We employ a Monte Carlo study to test the robustness and analyze the finite sample behavior of the estimators of long-range dependence for
